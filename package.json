@@ -1,0 +1,23 @@
+{
+  "name": "serverless-dynamo",
+  "version": "1.0.0",
+  "description": "app for interview",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanKer/serverless.git"
+  },
+  "author": "canker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CanKer/serverless/issues"
+  },
+  "homepage": "https://github.com/CanKer/serverless#readme",
+  "dependencies": {
+    "aws-sdk": "^2.488.0",
+    "uuid": "^3.3.2"
+  }
+}

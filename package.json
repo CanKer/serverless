@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/CanKer/serverless#readme",
   "dependencies": {
-    "aws-sdk": "^2.488.0",
+    "aws-sdk": "^2.814.0",
     "uuid": "^3.3.2"
   }
 }
